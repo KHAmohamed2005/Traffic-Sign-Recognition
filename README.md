@@ -34,6 +34,7 @@ The project implements a CNN-based model to classify traffic signals efficiently
 - NumPy
 - Pandas
 - Matplotlib
+- sklearn.model_selection
 
 ### Installation
 1. Clone this repository:
