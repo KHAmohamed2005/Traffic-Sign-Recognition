@@ -1,9 +1,12 @@
 # Traffic Sign Recognition
  
 
-## Overview
-This project focuses on recognizing traffic signals using a deep learning approach. The model is based on Convolutional Neural Networks (CNN) and leverages libraries like NumPy, Pandas, PyTorch, and Matplotlib. The goal was to optimize efficiency and minimize errors through iterative training processes, selecting the best model after multiple epochs.
+##This project implements a Traffic Sign Recognition system using Convolutional Neural Networks (CNN) to classify images of traffic signs. The aim is to build an automated system that accurately recognizes and classifies various traffic signs from images, contributing to the development of advanced driver-assistance systems (ADAS) and autonomous vehicles.
 
+### Problem Statement
+Traffic signs are critical for ensuring road safety as they convey essential information to drivers. An automated recognition system can help improve safety and efficiency on the roads. For example, a system should recognize a "Stop" sign and alert the driver to stop the vehicle, thereby preventing accidents.
+## Datasets
+The dataset used for this project is the **German Traffic Sign Recognition Benchmark (GTSRB)**. It contains over 50,000 images categorized into 43 classes of traffic signs.
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Setup](#setup)
@@ -34,14 +37,16 @@ The project implements a CNN-based model to classify traffic signals efficiently
 - NumPy
 - Pandas
 - Matplotlib
-- sklearn.model_selection
+- sklearn.model_selectio
+- ASP .NET(MVC)
 
 ### Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/traffic-signal-recognition.git
+   ```
    2. Install the dependencies:
-      ```
+      
    ```bash
    pip install -r requirements.txt
    ```
