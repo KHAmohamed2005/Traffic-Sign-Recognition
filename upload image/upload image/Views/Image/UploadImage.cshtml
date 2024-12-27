@@ -1,0 +1,115 @@
+﻿@{
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 100%;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: #333;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
+        .message {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 4px;
+            background-color: #eaf8ea;
+            color: #28a745;
+            font-weight: bold;
+        }
+
+        .preview {
+            margin-top: 15px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Upload Image</h2>
+
+        <form asp-action="UploadImage" asp-controller="Image" method="post" enctype="multipart/form-data">
+            <div>
+                <label for="image">Select an image to upload:</label>
+                <input type="file" name="image" id="image" />
+            </div>
+            <button type="submit">Upload</button>
+        </form>
+
+        @if (ViewBag.Message != null)
+        {
+            <div class="message">@ViewBag.Message</div>
+
+            @if (ViewBag.ImagePath != null)
+            {
+                <div class="preview">
+                    <p><strong>result: @ViewBag.PythonOutput </strong></p>
+                    <img src="@ViewBag.ImagePath" alt="Uploaded Image" />
+                </div>
+            }
+        }
+    </div>
+</body>
+</html>

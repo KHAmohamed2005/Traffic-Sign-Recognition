@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\upload image.bundle.scp.css",
+      "PackagePath": "staticwebassets\\upload image.enigzm81nn.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\01488178-387f-429f-bda3-a89d505e6b19.webp",
+      "PackagePath": "staticwebassets\\uploads\\01488178-387f-429f-bda3-a89d505e6b19.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\0c41371f-0a82-4d29-bce1-c2dd96747921.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0c41371f-0a82-4d29-bce1-c2dd96747921.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\10bdacfe-4ec7-4cf8-b942-5156d625a7fd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\10bdacfe-4ec7-4cf8-b942-5156d625a7fd.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\18134e42-3ff4-494d-ba3f-e441197ce9e4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18134e42-3ff4-494d-ba3f-e441197ce9e4.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\1b69ac2d-81c3-4fd8-a60c-aa225f3cf239.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1b69ac2d-81c3-4fd8-a60c-aa225f3cf239.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\1d7856ec-6b18-4891-85c1-7ba97e341991.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1d7856ec-6b18-4891-85c1-7ba97e341991.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\1f9fae2b-ad14-4f96-8147-e367e1eef1f2.webp",
+      "PackagePath": "staticwebassets\\uploads\\1f9fae2b-ad14-4f96-8147-e367e1eef1f2.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\21c1e17a-1aef-4191-9d4c-dd11554158e8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\21c1e17a-1aef-4191-9d4c-dd11554158e8.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\2a0ea4ed-f424-4cf1-946a-c5694614d79e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2a0ea4ed-f424-4cf1-946a-c5694614d79e.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\2e72f9d8-f3d8-44c7-8a07-683fc0e9f62c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2e72f9d8-f3d8-44c7-8a07-683fc0e9f62c.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\32c98d68-6d1e-4893-bf05-efb721538f94.jpg",
+      "PackagePath": "staticwebassets\\uploads\\32c98d68-6d1e-4893-bf05-efb721538f94.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\3a5208dd-7014-4a13-b237-8fae0423d592.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3a5208dd-7014-4a13-b237-8fae0423d592.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\3bd2b3eb-3acb-488a-b1b6-377b365f88bf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3bd2b3eb-3acb-488a-b1b6-377b365f88bf.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\5108e53c-980a-4b90-9c0b-b6db6a30a275.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5108e53c-980a-4b90-9c0b-b6db6a30a275.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\5279dc7f-1504-4702-8759-636128a95da3.webp",
+      "PackagePath": "staticwebassets\\uploads\\5279dc7f-1504-4702-8759-636128a95da3.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\5363e086-e413-4af8-8619-dafcaa2a4f5b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5363e086-e413-4af8-8619-dafcaa2a4f5b.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\546d004e-e402-42ca-9eb4-7379ff4b9786.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\546d004e-e402-42ca-9eb4-7379ff4b9786.jpeg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\556520a2-b0e9-46f5-999e-300feaa957f3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\556520a2-b0e9-46f5-999e-300feaa957f3.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\56cf850c-8a5c-42ba-b4ce-13b1768e0e56.webp",
+      "PackagePath": "staticwebassets\\uploads\\56cf850c-8a5c-42ba-b4ce-13b1768e0e56.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\5c38db44-067a-40a0-822e-e0d362d772af.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5c38db44-067a-40a0-822e-e0d362d772af.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\5d2ac904-9f9b-464a-a874-bea9045247ce.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5d2ac904-9f9b-464a-a874-bea9045247ce.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\694a2405-ad66-4eec-a4b1-baf076bb476f.webp",
+      "PackagePath": "staticwebassets\\uploads\\694a2405-ad66-4eec-a4b1-baf076bb476f.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\694bf38f-baa2-4f1c-8ae6-c80e306fd676.jpg",
+      "PackagePath": "staticwebassets\\uploads\\694bf38f-baa2-4f1c-8ae6-c80e306fd676.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\6e761b30-54ce-41bc-ae2e-c96414651e15.png",
+      "PackagePath": "staticwebassets\\uploads\\6e761b30-54ce-41bc-ae2e-c96414651e15.png"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\702fe6e8-4dd6-4248-84f7-85f820f2c405.webp",
+      "PackagePath": "staticwebassets\\uploads\\702fe6e8-4dd6-4248-84f7-85f820f2c405.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\78695b0c-a009-415d-a9aa-2e40df817930.jpg",
+      "PackagePath": "staticwebassets\\uploads\\78695b0c-a009-415d-a9aa-2e40df817930.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\7987be66-09cc-48b6-8e24-cb390841971a.webp",
+      "PackagePath": "staticwebassets\\uploads\\7987be66-09cc-48b6-8e24-cb390841971a.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\7b4a0d4e-4336-486b-adbf-a469d011f2ac.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7b4a0d4e-4336-486b-adbf-a469d011f2ac.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\7cf861c7-5c9a-40e3-ac41-ab8c06c4938f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7cf861c7-5c9a-40e3-ac41-ab8c06c4938f.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\7dd41275-cc61-42ff-b8c9-7d0790708d18.png",
+      "PackagePath": "staticwebassets\\uploads\\7dd41275-cc61-42ff-b8c9-7d0790708d18.png"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\81ebfca6-c6fa-44a6-a709-4a3c638cff96.jpg",
+      "PackagePath": "staticwebassets\\uploads\\81ebfca6-c6fa-44a6-a709-4a3c638cff96.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\848390fd-83c0-41b4-aa9f-c7439a92fb3b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\848390fd-83c0-41b4-aa9f-c7439a92fb3b.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\862341b4-8ea3-45fa-b658-16bdeee6f178.jpg",
+      "PackagePath": "staticwebassets\\uploads\\862341b4-8ea3-45fa-b658-16bdeee6f178.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\880b1c5a-89e1-4432-8395-0595ae5f0cae.jpg",
+      "PackagePath": "staticwebassets\\uploads\\880b1c5a-89e1-4432-8395-0595ae5f0cae.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\891c8e19-6819-4b9f-908e-a571a5ddabc7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\891c8e19-6819-4b9f-908e-a571a5ddabc7.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\925a724a-b083-4a5e-8304-7fdc387ce86e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\925a724a-b083-4a5e-8304-7fdc387ce86e.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\9cf7087a-7015-4316-b50f-1149f2b75537.webp",
+      "PackagePath": "staticwebassets\\uploads\\9cf7087a-7015-4316-b50f-1149f2b75537.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\9e4cd531-90d7-458a-8eb2-b3a1ae63dbf1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9e4cd531-90d7-458a-8eb2-b3a1ae63dbf1.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a02d54ce-919f-4fc9-832c-7843c44e52bd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a02d54ce-919f-4fc9-832c-7843c44e52bd.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a070c8fa-d8bf-4501-ad73-44f77cbf9663.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a070c8fa-d8bf-4501-ad73-44f77cbf9663.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a25d62b2-7a3d-40be-9263-8f524a1208cd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a25d62b2-7a3d-40be-9263-8f524a1208cd.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a3e47893-ea79-42a1-adae-520356702195.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\a3e47893-ea79-42a1-adae-520356702195.jpeg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a564957d-bf6f-4a4f-9a23-99cc3899112e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a564957d-bf6f-4a4f-9a23-99cc3899112e.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a6aa9a91-07fa-4e96-8628-9a1fb45b752d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a6aa9a91-07fa-4e96-8628-9a1fb45b752d.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a985bbde-0426-4c1f-81af-5a07b768a395.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a985bbde-0426-4c1f-81af-5a07b768a395.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\a9ec6fd5-1c2a-4d6d-82c2-edf766ad603b.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\a9ec6fd5-1c2a-4d6d-82c2-edf766ad603b.jpeg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\aa527c52-004c-4cd9-af9e-00fd9b1b32b3.webp",
+      "PackagePath": "staticwebassets\\uploads\\aa527c52-004c-4cd9-af9e-00fd9b1b32b3.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\af6ab48d-b235-45e6-b40c-8a9b1def80ff.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\af6ab48d-b235-45e6-b40c-8a9b1def80ff.jpeg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\b7fd0d7c-7eac-4d9d-84f3-4a0289d115b7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b7fd0d7c-7eac-4d9d-84f3-4a0289d115b7.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\baf5833e-a57b-4f24-9f3d-156e496ab1c5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\baf5833e-a57b-4f24-9f3d-156e496ab1c5.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\befd2ff5-25a6-42d9-adb9-0dec7e96fa59.jpg",
+      "PackagePath": "staticwebassets\\uploads\\befd2ff5-25a6-42d9-adb9-0dec7e96fa59.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\c24d9eb6-08e2-452a-a5e0-1590b9d3cb2c.webp",
+      "PackagePath": "staticwebassets\\uploads\\c24d9eb6-08e2-452a-a5e0-1590b9d3cb2c.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\c3d2804f-0cdc-4a39-b8c1-5c0a8cdb8e80.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c3d2804f-0cdc-4a39-b8c1-5c0a8cdb8e80.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\c51e8f46-2827-47ba-ba9d-b5081dd6b7f6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c51e8f46-2827-47ba-ba9d-b5081dd6b7f6.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\c925d8c6-8fae-484f-adc1-13119b9dc59e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c925d8c6-8fae-484f-adc1-13119b9dc59e.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\d4fc12a3-e666-433a-83df-b7ac245cf001.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d4fc12a3-e666-433a-83df-b7ac245cf001.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\d6b65920-71a2-4c6d-a4e8-b7bb9f90f21c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d6b65920-71a2-4c6d-a4e8-b7bb9f90f21c.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\dc2f3652-ea77-4470-8ad1-461ef45fe842.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc2f3652-ea77-4470-8ad1-461ef45fe842.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\dcbc7d38-d3fc-477e-a86f-2db0d9f45246.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dcbc7d38-d3fc-477e-a86f-2db0d9f45246.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\dedb567e-d92e-4ed3-9613-272fb822a74e.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\dedb567e-d92e-4ed3-9613-272fb822a74e.jpeg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\e34ac84f-1f38-45e9-bfbc-bd08086e06da.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e34ac84f-1f38-45e9-bfbc-bd08086e06da.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\e8280464-e5af-4d29-aa45-433220bc3ebc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e8280464-e5af-4d29-aa45-433220bc3ebc.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\ec3680f5-782e-464f-a2d6-15a5e408638f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ec3680f5-782e-464f-a2d6-15a5e408638f.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\ed2675f0-18b7-43b8-aae1-865c0f0c9265.webp",
+      "PackagePath": "staticwebassets\\uploads\\ed2675f0-18b7-43b8-aae1-865c0f0c9265.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\f2bb8fcb-60d0-41df-b014-4084dff6f0db.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f2bb8fcb-60d0-41df-b014-4084dff6f0db.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\f3b0ac5f-ab39-47c4-91b0-9f01d7c11e45.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f3b0ac5f-ab39-47c4-91b0-9f01d7c11e45.jpg"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\f7c876f3-6f46-4b46-91de-54c0dcb54a97.webp",
+      "PackagePath": "staticwebassets\\uploads\\f7c876f3-6f46-4b46-91de-54c0dcb54a97.webp"
+    },
+    {
+      "Id": "D:\\upload image\\upload image\\upload image\\wwwroot\\uploads\\f9eee84c-d7b7-407c-a9b5-3aa3d19a5cdf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f9eee84c-d7b7-407c-a9b5-3aa3d19a5cdf.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.upload image.props",
+      "PackagePath": "build\\upload image.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.upload image.props",
+      "PackagePath": "buildMultiTargeting\\upload image.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.upload image.props",
+      "PackagePath": "buildTransitive\\upload image.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.upload image.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.upload image.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

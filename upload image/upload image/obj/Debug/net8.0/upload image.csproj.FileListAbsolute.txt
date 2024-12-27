@@ -1,0 +1,64 @@
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\appsettings.json
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\upload image.staticwebassets.runtime.json
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\upload image.exe
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\upload image.deps.json
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\upload image.runtimeconfig.json
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\upload image.dll
+C:\Users\ahmed\source\repos\upload image\upload image\bin\Debug\net8.0\upload image.pdb
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.RazorAssemblyInfo.cache
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.RazorAssemblyInfo.cs
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.upload image.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.build.upload image.props
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.upload image.props
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.upload image.props
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\scopedcss\bundle\upload image.styles.css
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\scopedcss\projectbundle\upload image.bundle.scp.css
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.dll
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\refint\upload image.dll
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.pdb
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\upload image.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\upload image\upload image\obj\Debug\net8.0\ref\upload image.dll
+D:\upload image\upload image\upload image\bin\Debug\net8.0\appsettings.Development.json
+D:\upload image\upload image\upload image\bin\Debug\net8.0\appsettings.json
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.staticwebassets.runtime.json
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.staticwebassets.endpoints.json
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.exe
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.deps.json
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.runtimeconfig.json
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.dll
+D:\upload image\upload image\upload image\bin\Debug\net8.0\upload image.pdb
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.GeneratedMSBuildEditorConfig.editorconfig
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.AssemblyInfoInputs.cache
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.AssemblyInfo.cs
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.csproj.CoreCompileInputs.cache
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.MvcApplicationPartsAssemblyInfo.cache
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.RazorAssemblyInfo.cache
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.RazorAssemblyInfo.cs
+D:\upload image\upload image\upload image\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\upload image\upload image\upload image\obj\Debug\net8.0\scopedcss\bundle\upload image.styles.css
+D:\upload image\upload image\upload image\obj\Debug\net8.0\scopedcss\projectbundle\upload image.bundle.scp.css
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets.build.json
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets.development.json
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.upload image.Microsoft.AspNetCore.StaticWebAssets.props
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.upload image.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.build.upload image.props
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.upload image.props
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.upload image.props
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets.pack.json
+D:\upload image\upload image\upload image\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.dll
+D:\upload image\upload image\upload image\obj\Debug\net8.0\refint\upload image.dll
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.pdb
+D:\upload image\upload image\upload image\obj\Debug\net8.0\upload image.genruntimeconfig.cache
+D:\upload image\upload image\upload image\obj\Debug\net8.0\ref\upload image.dll
